@@ -76,7 +76,7 @@
     "escape-html": "1.0.3",
     "eslint-plugin-playwright": "2.2.0",
     "execa": "5.1.1",
-    "file-type": "19.3.0",
+    "file-type": "21.3.2",
     "http-status": "2.1.0",
     "jest": "29.7.0",
     "jwt-decode": "4.0.0",
