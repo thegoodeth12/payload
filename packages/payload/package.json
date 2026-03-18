@@ -95,7 +95,7 @@
     "croner": "9.0.0",
     "dataloader": "2.2.3",
     "deepmerge": "4.3.1",
-    "file-type": "19.3.0",
+    "file-type": "21.3.2",
     "get-tsconfig": "4.8.1",
     "http-status": "2.1.0",
     "image-size": "2.0.2",
@@ -112,7 +112,7 @@
     "scmp": "2.1.0",
     "ts-essentials": "10.0.3",
     "tsx": "4.19.2",
-    "undici": "7.10.0",
+    "undici": "7.24.0",
     "uuid": "10.0.0",
     "ws": "^8.16.0"
   },
